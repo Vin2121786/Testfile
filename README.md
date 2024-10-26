@@ -1,3 +1,3 @@
-# Capstone Assgnments
+# Capstone Assignments
 Testfile
 Git hub Account
